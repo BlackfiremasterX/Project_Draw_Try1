@@ -1,0 +1,9 @@
+<resources>
+    <array name="Shapes">
+        <item>Прямоугольник</item>
+        <item>Эллипс</item>
+        <item>Треугольник</item>
+    </array>
+
+    <string name="app_name">Try1</string>
+</resources>
